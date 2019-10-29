@@ -9,7 +9,8 @@ module.exports = {
         {
             resolve: `gatsby-source-notion-database`,
             options: {
-                configTable: "https://www.notion.so/dongsuo/02dfc61cc3ed4985b0530b10c5549619?v=8b4101da602546f9b145302366f1ea4b"
+                configTable: "https://www.notion.so/dongsuo/d6494f96d1cb4c7d97a0f765e4866873?v=41068923cf5a409ba21bd273cb28cdd5"
+
             }
         }
     ],

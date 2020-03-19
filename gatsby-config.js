@@ -12,6 +12,13 @@ module.exports = {
                 configTable: "https://www.notion.so/dongsuo/78ea364f81fd45b58efd7c6df9aa5a1a?v=185004f774ff43e4ba4e4ebd0f36fa8c"
 
             }
-        }
+        },
+        {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+                trackingId: `UA-110850031-2`,
+                head: true,
+            },
+        },
     ],
 }
